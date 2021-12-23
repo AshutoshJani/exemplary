@@ -1,5 +1,4 @@
-# Here the dataset for the ChatLearner should go.
-# In our requirement we used the Papaya Conversational Dataset
+# Here the dataset for the ChatLearner should go. In our requirement we used the Papaya Conversational Dataset
 
 ## Papaya Conversational Data Set
 Papaya Data Set is the best (cleanest and well-organized) free English conversational data you can find on the web for training a chatbot. Here are some details:
