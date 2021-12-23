@@ -15,3 +15,6 @@ Papaya Data Set is the best (cleanest and well-organized) free English conversat
 Normally a single month of comments is big enough (can generated 3M pairs of training samples roughly). You can tune the parameters in the scripts based on your needs. 
 
 6. The data files in this data set were already preprocessed with NLTK tokenizer so that they are ready to feed into the model using new tf.data API in TensorFlow.
+
+
+## This description has been taken from [this repo](https://github.com/bshao001/ChatLearner) by Bo Shao
