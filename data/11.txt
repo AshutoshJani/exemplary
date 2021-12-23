@@ -1,0 +1,113 @@
+A higher speed seems to indicate that a
+given distance has been
+covered in a shorter time, or a
+larger distance covered in a
+given time.
+The most convenient way to
+find out which of the objects is moving faster
+is to compare the distances
+moved by them in a unit time.
+Thus, if we know the distance
+covered by two buses in one
+hour, we can tell which one is
+faster. We call the distance
+covered by an object in a unit
+time as the speed of the object.
+When we say that a car is
+moving with a speed of 50
+kilometres per hour, it implies
+that it will cover a distance of
+50 kilometres in one hour. However, a
+car seldom moves with a constant speed
+for one hour. In fact, it starts moving
+slowly and then picks up speed. So,
+when we say that the car has a speed of
+50 kilometres per hour, we usually
+consider only the total distance covered
+by it in one hour. We do not bother
+whether the car has been moving with
+a constant speed or not during that
+hour. The speed calculated here is
+actually the average speed of the car. In
+this book we shall use the term speed
+for average speed. So, for us the speed
+is the total distance covered divided
+by the total time taken.
+In everyday life we seldom find objects
+moving with a constant speed over long
+distances or for long durations of time.
+If the speed of an object moving along
+a straight line keeps changing, its
+motion is said to be non uniform. On
+the other hand, an object moving along
+a straight line with a constant speed
+is said to be in uniform motion. In
+this case, the average speed is the
+same as the actual speed.
+We can determine the speed of a given
+object once we can measure the time
+taken by it to cover a certain distance.
+
+The time between one
+sunrise and the next was called a day.
+Similarly, a month was measured from
+one new moon to the next. A year was
+fixed as the time taken by the earth to
+complete one revolution of the sun.
+Often we need to measure intervals
+of time which are much shorter than a
+day. Clocks or watches are perhaps the
+most common time measuring devices.
+One of the most
+well-known periodic motions is that of
+a simple pendulum.
+A simple pendulum consists of a
+small metallic ball or a piece of stone
+suspended from a rigid stand by a
+thread. The metallic ball
+is called the bob of the pendulum.
+The to and fro motion of a simple pendulum is an
+example of a periodic or an oscillatory motion.
+The pendulum is said to have
+completed one oscillation when its bob,
+starting from its mean position O, moves
+to extreme position A, to extreme position B and back to O.
+Time period is the time taken by the pendulum to complete one oscillation.
+Nowadays most clocks or watches
+have an electric circuit with one or more cells. These clocks are called quartz
+clocks. The time measured by quartz
+clocks is much more accurate than that
+by the clocks available earlier.
+
+The basic unit of time is a second. Its
+symbol is s. Larger units of time are
+minutes (min) and hours (h).
+The basic unit of speed is m/s. Of course, it
+could also be expressed in other units
+such as m/min or km/h.
+Rockets, launching satellites into
+earth’s orbit, often attain speeds up to
+8 km/s. On the other hand, a tortoise
+can move only with a speed of about 8
+cm/s.
+
+Formula for distance is Speed x Time.
+Formula for time taken is Distance/Speed
+
+A speedometer is a device that measures and displays the speed of a vehicle.
+Odometer is a device that measures the distance moves by the vehicle.
+
+The distance moved by an object in a unit time is called its speed.
+Speed of objects help us to decide which one is moving faster than the
+other.
+The speed of an object is the distance travelled divided by the time taken
+to cover that distance. Its basic unit is metre per second (m/s).
+Periodic events are used for the measurement of time. Periodic motion of
+a pendulum has been used to make clocks and watches.
+Motion of objects can be presented in pictorial form by their
+distance-time graphs.
+The distance-time graph for the motion of an object moving with a constant
+speed is a straight line.
+
+The motion repeated in equal intervals of time is called periodic motion.
+Non periodic motion is motion which does not repeat after regular interval of time.

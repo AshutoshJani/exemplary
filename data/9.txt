@@ -1,0 +1,74 @@
+The combination of two of more cells where the positive terminal is connected to the negative terminal of the next cell is called a battery.
+The key or switch can
+be placed anywhere in the circuit.
+When the switch is in the ‘ON’
+position, the circuit from the
+positive terminal of the battery to
+the negative terminal is complete,
+the circuit is then said to be closed
+and the current flows throughout
+the circuit instantly.
+When the switch is in the ‘OFF’
+position, the circuit is incomplete,
+It is said to be open and no current
+flows through any part of the
+circuit.
+A thin wire in the bulb which glows when an electric current passes through it is called a filament. When a bulb gets fused, its filament is
+broken.
+When an electric current flows through a wire it gets heated, this is
+the heating effect of current.
+heating effect of the electric
+current is used in an electric
+room heater or an electric heater used
+for cooking.
+This coil of wire is called an element.
+When appliance with elements are switched on
+after connecting to the electric supply,
+their elements become red hot and give
+out heat.
+The amount of heat produced in a
+wire depends on its material, length
+and thickness. Thus, for different
+requirements, the wires of different
+materials and different lengths and
+thicknesses are used.
+The wires used for making electric
+circuits do not normally become hot. On
+the other hand, the elements of some
+electric appliances become so hot that
+they are easily visible. The filament of
+an electric bulb gets heated to such a 
+high temperature that it starts glowing.
+If a large current passes through a
+wire, the wire may become so hot that it
+may even melt and break.
+
+Electric fuse is a safety device that is a safeguard to all of our electrical appliances. Electric fuse are made up of special material which melt quickly and break when large electric currents passed through it.
+There is a maximum
+limit on the current which can safely
+flow through a circuit. If by accident the current exceeds this safe limit, the wires may become overheated and may cause
+fire. If a proper fuse is there in the circuit,
+it will blow off and break the circuit.
+
+One reason for excessive currents in
+electrical circuits is the direct
+touching of wires this may happen if
+the insulation on the wires has come
+off due to wear and tear which may
+cause a short circuit. Another reason
+for excessive current can be the
+connection of many devices to a single
+socket which may cause overload in
+the circuit.
+Miniature circuit breakers or MCB are switches which
+automatically turn off
+when current in a circuit
+exceeds the safe limit.
+
+When an electric current flows through a wire, it behaves like a
+magnet.
+A current carrying coil of an insulated wire wrapped around a
+piece of iron is called an electromagnet.
+Electromagnets are used in cranes which can lift heavy loads, for separating magnetic material from the junk, doctors use tiny electromagnets to take out small pieces of magnetic material that have accidentally fallen in the eye.
+The electric bell is a simple circuit consisting of a coil of wire
+wound on an iron piece connected with a iron strip with a hammer at one end which is near a gong. Working of electric bell is that when the circuit is complete the current flows through the coil making it an electromagnet which will pull the iron strip with the hammer that will strike the gong thus producing a sound.
